@@ -1,2 +1,5 @@
 # hello-world
-初期テスト用
+
+first test
+
+How to use branch
